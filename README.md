@@ -15,7 +15,7 @@ The **Password Strength Visualizer** is a comprehensive security tool that analy
 ### 📓 Interactive Notebook
 [![Open In Colab](https://colab.research.google.com/drive/13ie5RLgWtghtfdG3n76WaVoQjKczVaYt?usp=sharing)
 
-![Password Strength Visualizer](password-analyzer.png)
+![Password Strength Visualizer](password-checker.png)
 
 ---
 
