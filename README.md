@@ -6,18 +6,18 @@ An interactive password strength analyzer that visualizes security metrics, esti
 
 ## 🚀 Overview
 
-The **Password Strength Visualizer** is a comprehensive security tool that analyzes password strength using multiple methodologies including entropy calculation, attack time estimation, and dictionary vulnerability checks. It provides real-time visual feedback and AI-powered explanations to help users understand and improve their password security.
+The **Password Strength Visualizer** is a comprehensive security tool that analyzes password strength using multiple methodologies, including entropy calculation, attack time estimation, and dictionary vulnerability checks. It provides real-time visual feedback and AI-powered explanations to help users understand and improve their password security.
 
 ---
 
 ## 🚀 Live Demos
 
-[![Open In Colab](https://colab.research.google.com/drive/13ie5RLgWtghtfdG3n76WaVoQjKczVaYt?usp=sharing)]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/13ie5RLgWtghtfdG3n76WaVoQjKczVaYt?usp=sharing)
 
 ## 🔑 Password Checker Demo
 
 ![Password Strength Visualizer Demo](password-checker.png)
-*Password Strength Visualizer analyzing password security with real-time feedback and AI explanations*
+*Password Strength Visualizer analyzes password security with real-time feedback and AI explanations*
 
 ---
 
@@ -43,34 +43,5 @@ The **Password Strength Visualizer** is a comprehensive security tool that analy
 | Visualization            | Plotly, Matplotlib, Seaborn|
 | Web Interface            | Gradio                     |
 | Data Processing          | pandas, numpy              |
-
----
-
-
----
-
-## 🎯 Usage
-
-### Option 1: Try the Live Demo
-**[🚀 Try Live Demo on Hugging Face](https://huggingface.co/spaces/yourusername/password-strength-visualizer)**  
-*No installation required - analyze passwords instantly!*
-
-### Option 2: Run the Notebook
-**[📓 Try the Google Colab Notebook](https://colab.research.google.com/drive/your-notebook-link)**  
-*Interactive step-by-step implementation with explanations*
-
-### Option 3: Local Installation
-1. **Launch the app** - Open your browser to the provided local URL
-2. **Enter a password** in the input field
-3. **Click "Analyze Password"** to get instant feedback
-4. **Review the results:**
-- Password strength score (0-4)
-- Entropy measurement in bits
-- Estimated crack times for different attack types
-- AI-powered explanation of strengths/weaknesses
-- Visual charts and indicators
-
----
-
 
 
