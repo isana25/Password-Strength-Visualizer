@@ -12,10 +12,12 @@ The **Password Strength Visualizer** is a comprehensive security tool that analy
 
 ## 🚀 Live Demos
 
-### 📓 Interactive Notebook
 [![Open In Colab](https://colab.research.google.com/drive/13ie5RLgWtghtfdG3n76WaVoQjKczVaYt?usp=sharing)
 
-![Password Strength Visualizer](password-checker.png)
+## 🔑 Password Checker Demo
+
+![Password Strength Visualizer Demo](password-checker.png)
+*Password Strength Visualizer analyzing password security with real-time feedback and AI explanations*
 
 ---
 
